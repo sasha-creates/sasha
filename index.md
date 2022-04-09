@@ -27,7 +27,7 @@
 
 #### chalk + notch wren top
 
-<img src="./images/sewing/chalk-and-notch-wren-1.JPG" alt="a close up of the ruffle sleeve detail on a top" />
+<img src="./images/sewing/chalk-and-notch-wren-1.JPG" alt="a close up of the ruffle sleeve detail on a top" width="200" />
 
 - [pattern source](https://www.chalkandnotch.com/shop/wren/)
 - [rayon source](https://workroomsocial.com/collections/fabric)
@@ -37,7 +37,7 @@
 
 #### knit gloves for beginners
 
-<img src="./images/knitting/knit-gloves-wip.JPG" alt="a pair of knitting needles with a knit project that is in-progress" />
+<img src="./images/knitting/knit-gloves-wip.JPG" alt="a pair of knitting needles with a knit project that is in-progress" width="200" />
 
 - [kit source](https://www.etsy.com/listing/1080219478/knitting-starter-kit-fingerless-mitts)
 
@@ -46,7 +46,7 @@
 
 #### hand woven wall hanging
 
-<img src="./images/crafts/woven-wall-hanging-on-loom.JPG" alt="a completed weaving draped on a saori loom" />
+<img src="./images/crafts/woven-wall-hanging-on-loom.JPG" alt="a completed weaving draped on a saori loom" width="200" />
 
 - [class source](https://loopoftheloom.com/)
 
